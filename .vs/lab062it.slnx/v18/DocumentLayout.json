@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Student\\lab062it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBCB223-E375-2D12-FE29-178DDB1B206A}|UnitTest62it\\UnitTest62it.vcxproj|C:\\Student\\lab062it\\UnitTest62it\\UnitTest62it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EBCB223-E375-2D12-FE29-178DDB1B206A}|UnitTest62it\\UnitTest62it.vcxproj|solutionrelative:UnitTest62it\\UnitTest62it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7E583C-046B-41F0-A358-495DCA3542E2}|lab062it\\lab062it.vcxproj|C:\\Student\\lab062it\\lab062it\\lab062it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B7E583C-046B-41F0-A358-495DCA3542E2}|lab062it\\lab062it.vcxproj|solutionrelative:lab062it\\lab062it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest62it.cpp",
+              "DocumentMoniker": "C:\\Student\\lab062it\\UnitTest62it\\UnitTest62it.cpp",
+              "RelativeDocumentMoniker": "UnitTest62it\\UnitTest62it.cpp",
+              "ToolTip": "C:\\Student\\lab062it\\UnitTest62it\\UnitTest62it.cpp",
+              "RelativeToolTip": "UnitTest62it\\UnitTest62it.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T21:09:30.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab062it.cpp",
+              "DocumentMoniker": "C:\\Student\\lab062it\\lab062it\\lab062it.cpp",
+              "RelativeDocumentMoniker": "lab062it\\lab062it.cpp",
+              "ToolTip": "C:\\Student\\lab062it\\lab062it\\lab062it.cpp",
+              "RelativeToolTip": "lab062it\\lab062it.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T20:36:57.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
